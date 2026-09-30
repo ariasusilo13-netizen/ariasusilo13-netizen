@@ -1,16 +1,36 @@
-## Hi there 👋
+# Andrew Flynn 👋  
+**Administrator** at Burgess-Patterson | Local Government Professional  
 
-<!--
-**ariasusilo13-netizen/ariasusilo13-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🏛️ About Me  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Dedicated local government administrator with a passion for public service and operational efficiency. Focused on driving meaningful change through strategic planning and community engagement. Committed to leveraging technology and data-driven decision-making to improve service delivery and stakeholder satisfaction.
+
+---
+
+## 📊 Professional Focus  
+
+- **Public Administration** | **Public Policy** | **Organizational Leadership**  
+- Operational planning and process optimization  
+- Community outreach and engagement  
+- Information technology implementation in government settings  
+
+---
+
+## 📬 Connect With Me  
+
+- 🌐 Website: [chase-mejia.net](http://chase-mejia.net/) | [Hill & Anderson](https://www.hill-anderson.com/) | [Davis & Pratt](http://www.davis-pratt.com/)  
+- 🔗 GitHub: [pbuck](https://github.com/pbuck)  
+- 📧 Email: caroline64@hotmail.com  
+
+---
+
+*Built with purpose, one commit at a time.*  
+📍 Now based in New Hampshire  
+
+<br>
+
+<div align="center">
+  <sub>GitHub Profile Filler</sub>
+</div>
