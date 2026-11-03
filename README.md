@@ -10,6 +10,10 @@ Dedicated local government administrator with a passion for public service and o
 ---
 
 ## 📊 Professional Focus  
+<p align="center">
+  <img src="https://cdn.yaravoice.com/public/images/user/file-1793642949595-0.jpg" alt="Description" width="300">
+</p>
+
 
 - **Public Administration** | **Public Policy** | **Organizational Leadership**  
 - Operational planning and process optimization  
